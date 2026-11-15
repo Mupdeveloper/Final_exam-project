@@ -6,7 +6,7 @@
 **Student ID:** 20252IMA 128  
 **Group:** B – Tuesday  
 **Project Domain:** Other  
-**Project Status:** Proposed – Awaiting Title Approval
+
 
 ## 1. Project Overview
 
