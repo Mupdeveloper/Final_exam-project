@@ -99,3 +99,12 @@ The proposed system will focus on:
 6. Recording verified item handovers.
 7. Generating reports about lost, found, claimed, and returned items.
 
+# Research and project idea references
+1. Makerere University (2024) — An online lost and found items system. This undergraduate project focuses on helping students, faculty, and staff recover lost belongings through a centralized system. Read the Makerere University project.
+
+2. University of Benin (2025) — Development of a Web-Based Lost and Found Reporting System for Campus Environments. This project discusses improving campus lost-item reporting and retrieval. Read the University of Benin project.
+
+3. Reswara et al. (2026) — Developing a Web-Based Lost and Found System for University: Case Study: Sam Ratulangi University. This study describes centralized reporting, searching, claims, and administrative verification. Read the study.
+
+4. Ballard et al. (2025) — USTP Panaon Lost and Found Management System. This project discusses organizing campus item recovery using a centralized database and item tracking. Read the project.
+
